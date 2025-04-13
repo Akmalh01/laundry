@@ -1,0 +1,9 @@
+.sidenav-header {
+    height: 75px; /* Sesuaikan tinggi sesuai kebutuhan Anda */
+    position: relative; /* Memastikan posisi absolut ikon close berfungsi dengan benar */
+  }
+  
+  .logo-lg {
+    max-width: 200px; /* Sesuaikan lebar maksimum logo sesuai kebutuhan Anda */
+    height: auto; /* Memastikan aspek rasio tetap */
+  }
